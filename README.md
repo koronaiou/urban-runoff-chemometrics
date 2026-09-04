@@ -1,4 +1,4 @@
-# Urban Runoff as a Vector of Emerging Contaminants: Chemical Fingerprinting via Advanced HRMS Workflow and Machine Learning
+# Urban Runoff as a Vector of Emerging Contaminants: Chemical Fingerprinting via Advanced HRMS Workflow
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -298,8 +298,7 @@ If you use this code or these data, please cite:
 
 > Koronaiou, L.-A., Alampanos, V., Eftimov, T., Abrahamsson, D., Lambropoulou,
 > D.A. Urban Runoff as a Vector of Emerging Contaminants: Chemical
-> Fingerprinting via Advanced HRMS Workflow and Machine Learning.
-
+> Fingerprinting via Advanced HRMS Workflow
 ## Contact
 
 Corresponding author: Dr D. Lambropoulou — dlambro@chem.auth.gr
