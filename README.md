@@ -7,7 +7,7 @@
 
 ## Overview
 
-<img width="1328" height="531" alt="graphical abstract" src="https://github.com/user-attachments/assets/47385a94-b3d5-4a32-8849-454ac25e7813" />
+<img width="1328" height="531" alt="graphical abstract" src="https://github.com/user-attachments/assets/20d1ea62-1469-4ca2-ac49-3e58647bea52" />
 
 Complete analytical workflow for a non-target screening study of urban runoff in
 Thessaloniki, Greece: spectral library preparation, and an explainable
