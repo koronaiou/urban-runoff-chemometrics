@@ -1,0 +1,24 @@
+# Thessaloniki urban-runoff NTA chemometrics pipeline
+# Install with:  pip install -r requirements.txt
+#
+# Tested on Python 3.12. Version floors reflect the APIs actually used
+# (StratifiedGroupKFold, dual="auto" in LinearSVC, the 3-D SHAP array layout
+# returned by TreeExplainer for multiclass models).
+
+pandas>=2.0
+numpy>=1.24
+scipy>=1.10
+openpyxl>=3.1            # reading the two .xlsx inputs
+scikit-learn>=1.4
+optuna>=3.5
+shap>=0.44
+lightgbm>=4.0
+xgboost>=2.0
+catboost>=1.2
+matplotlib>=3.7
+statsmodels>=0.14        # Benjamini-Hochberg FDR correction
+
+# --- Part A only: spectral library preparation notebooks ---
+# Not required to run the machine-learning pipeline.
+jupyter>=1.0
+rdkit>=2023.3            # SMILES standardisation in the NORMAN curation notebook
